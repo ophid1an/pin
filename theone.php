@@ -2,7 +2,7 @@
 
 $persons = include __DIR__.'/persons.php';
 
-// There are persons, with names and years of birth
+// There are persons. Persons have names and years of birth.
 var_dump($persons);
 
 // From these persons will are looking for the one
